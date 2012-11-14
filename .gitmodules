@@ -1,3 +1,9 @@
 [submodule "child"]
 	path = child
 	url = https://github.com/dp-lewis/child.git
+[submodule "lib/submodules/child2"]
+	path = lib/submodules/child2
+	url = https://github.com/dp-lewis/child2.git
+[submodule "lib/submodules/child"]
+	path = lib/submodules/child
+	url = https://github.com/dp-lewis/child.git
